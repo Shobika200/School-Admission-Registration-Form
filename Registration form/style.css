@@ -1,0 +1,28 @@
+ h1{
+    text-align: center;
+ }
+ .container1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    display:inline;
+    float: right;
+}
+.container2{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: 40px;
+
+}
+.container3{
+    float:right;
+    height:150px;
+width:150px;
+background-attachment:fixed;
+    border:solid 1px;
+    border-color:black;
+    margin:50px;
+
+}
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
